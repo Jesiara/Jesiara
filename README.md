@@ -21,15 +21,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jesiara)](https://github.com/anuraghazra/github-readme-stats)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abrarhasan3&show_icons=true&locale=en" alt="abrarhasan3" /></p>
-
-
-
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Jesiara&show_icons=true&count_private=true)  
-
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/Jesiara/contributions?format=svg&private=true)  
-
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Jesiara)  
 
